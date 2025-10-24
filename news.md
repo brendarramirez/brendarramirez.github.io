@@ -4,7 +4,7 @@ title: News and Media
 permalink: /news/
 ---
 
-[Santa Monica Bay Audubon Society](https://smbasblog.com/2024/05/08/zoom-recording-red-and-lilac-crowned-parrots-in-socal-with-brenda-ramirez/) - Newsletter for FLAPP presentation
+[Santa Monica Bay Audubon Society](https://smbasblog.com/2024/05/08/zoom-recording-red-and-lilac-crowned-parrots-in-socal-with-brenda-ramirez/) - newsletter for FLAPP presentation
 
 [LA Times 404](https://www.instagram.com/reel/DEX8DOsSQNf/?utm_source=ig_web_copy_link) - coverage on wild parrots and poaching
 
