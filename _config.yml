@@ -2,7 +2,7 @@ title: Brenda Ramirez
 email: brendarosaramirez@gmail.com
 baseurl: ""
 
-theme: minima
+theme: jekyll-theme-modernist
 
 header_pages:
   - research_projects.md
