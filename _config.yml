@@ -1,4 +1,14 @@
-theme: affiliates-jekyll-theme
-
 title: Brenda Ramirez
-description: Research Technician at the Moore Laboratory of Zoology at Occidental College
+author: Brenda R.
+email: brendarosaramirez@gmail.com
+description:
+baseurl: ""
+url: "https://yourusername.github.io"
+
+theme: minima
+
+header_pages:
+  - Research Projects
+  - Publications
+  - Outreach
+  - CV
