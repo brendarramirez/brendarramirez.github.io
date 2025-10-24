@@ -6,7 +6,7 @@ baseurl: ""
 theme: minima
 
 header_pages:
-  - Research Projects
-  - Publications
-  - Outreach
-  - CV
+  - research_projects.md
+  - publications.md
+  - outreach.md
+  - cv.md
