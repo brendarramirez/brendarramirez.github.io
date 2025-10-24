@@ -13,4 +13,4 @@ Moore Laboratory of Zoology at Occidental College
 
 **Master's Thesis**
 Dr. Elizabeth Scordato's Evolutionary Biology Lab at California State Polytechnic University, Pomona
-- Lasting Influence Of Natural andAnthropogenic Factors on Suitable Pacific swallow (**Hirundo tahitica**) Habitat
+- Lasting Influence of Natural and Anthropogenic Factors on Suitable Pacific swallow (**Hirundo tahitica**) Habitat
