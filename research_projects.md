@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Research Projects
 permalink: /reasearch_projects/
 ---
 
