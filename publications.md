@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-**Ramirez, B.R.**, Blanco, D.C., & McCormack, J. E. (2025). Relocated, range-limited, but resilient: niche shift and constraints on spread in introduced Nanday parakeets (Aratinga nenday). Urban Ecosystems, 28:216. [https://doi.org/10.1007/s11252-025-01835-y](https://doi.org/10.1007/s11252-025-01835-y)
+**Ramirez, B.R.**, Blanco, D.C., & McCormack, J. E. (2025). Relocated, range-limited, but resilient: niche shift and constraints on spread in introduced Nanday parakeets (*Aratinga nenday*). Urban Ecosystems, 28:216. [https://doi.org/10.1007/s11252-025-01835-y](https://doi.org/10.1007/s11252-025-01835-y)
 
 **Ramirez, B.R.**, Kass, J.M., Zellmer, A.J., Hund, A.K., Scordato, E.S.C. (2025). Long-term human land use change throughout Southeast Asia reshapes the distribution of suitable habitat for a commensal bird species. Journal of Biogeography, 0:e15123. [https://doi.org/10.1111/jbi.15123](https://doi.org/10.1111/jbi.15123)
 
