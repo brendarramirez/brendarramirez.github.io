@@ -10,7 +10,7 @@ permalink: /news/
 
 [LAist](https://laist.com/news/climate-environment/scientists-studying-boisterous-parrots-los-angeles) - coverage on wild parrots and parakeets of L.A., community science, and FLAPP research
 
-[Los Angeles Times Paper](https://www.latimes.com/environment/story/2024-03-03/feral-mexican-parrots-thrive-on-exotic-l-a-landscaping) - an article in the climate and environment section featuring the work and researchers of FLAPP
+[Los Angeles Times Article](https://www.latimes.com/environment/story/2024-03-03/feral-mexican-parrots-thrive-on-exotic-l-a-landscaping) - an article in the climate and environment section featuring the work and researchers of FLAPP
 
 [Los Angeles Times Video](https://www.latimes.com/0000018e-ca8a-d532-a7ae-fafb54c20001-123) - a video about our parrot research
 
